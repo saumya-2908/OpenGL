@@ -1,4 +1,4 @@
-**Android OpenCV Camera -- Clean Version**
+**Android OpenCV Camera --**
 =========================================
 
 This project demonstrates how to integrate **OpenCV** with an **Android Camera** pipeline to process real-time frames using native C++ code through the Android NDK. It provides a simple, extendable template for computer-vision tasks such as object detection, edge processing, filtering, and OpenGL rendering.
